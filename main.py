@@ -81,3 +81,4 @@ def evalute(opt, model, val_dataloader, epoch, features, adj):
 
 if __name__ == '__main__':
     train()
+    print("test")
